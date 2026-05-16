@@ -2,7 +2,7 @@
 
 ## Instalation
 
-- Download (Python 3.11.9)[https://www.python.org/downloads/release/python-3119/?utm_source=chatgpt.com]
+- Download [Python 3.11.9](https://www.python.org/downloads/release/python-3119/?utm_source=chatgpt.com)
 
 - Run on Microsoft Powershell:
 
