@@ -32,7 +32,7 @@ Add Python to PATH
 ## 2. Download the project
 
 ```bash
-git clone https://github.com/USERNAME/airmusic.git
+git clone https://github.com/ArthurBarcelos1/airmusic.git
 ```
 
 Or download ZIP directly from GitHub.
